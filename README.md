@@ -2,7 +2,7 @@
 
 A secure, offline-compatible Progressive Web Application (PWA) providing a suite of standard psychiatric rating scales for clinicians and self-assessment.
 
-**Live Demo:** [Click Here](https://abinanthan.github.io/psych-eval/) *(Replace with your actual URL after deployment)*
+**Live Demo:** [Click Here](https://abinanthan.github.io/psych-eval/) 
 
 ## 🧠 Supported Scales
 
